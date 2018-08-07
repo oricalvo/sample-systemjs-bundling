@@ -1,1 +1,7 @@
-# Created by .ignore support plugin (hsz.mobi)
+/app_out
+/build_out
+/dist
+/dist-prod
+/.idea
+/node_modules
+
